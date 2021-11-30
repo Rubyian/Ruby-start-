@@ -1,2 +1,2 @@
 # Ruby-start-
-Inicio de código de bots do discord para a linguagem de ruby!
+Inicio de código de bots do discord para a linguagem de ruby! Simples e rapido!
