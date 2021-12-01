@@ -1,0 +1,3 @@
+seu token
+id do seu bot
+prefix do seu bot
